@@ -1,0 +1,22 @@
+{
+  "name": "api-trade",
+  "version": "1.0.0",
+  "description": "api para controle de mercado financeiro com criptomoeda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apaganotti/api-trade.git"
+  },
+  "author": "apaganotti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apaganotti/api-trade/issues"
+  },
+  "homepage": "https://github.com/apaganotti/api-trade#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
